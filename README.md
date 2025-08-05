@@ -52,5 +52,5 @@ _Images available above in the repository file list._
 ## Contact
 
 Shubham Sanwal  
-Email: shubhamsanwal5@gmail.com  
-LinkedIn: [Shubham Sanwal](https://www.linkedin.com/in/shubham-sanwal)
+Email: shubhamsanwas@gmail.com  
+LinkedIn:https://www.linkedin.com/in/shubham-sanwal-685898337/
